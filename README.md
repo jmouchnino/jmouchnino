@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jmouchnino
-- 👀 I’m interested in machine learning, coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me ...
+I am Julien Mouchnino
+
+My main interest is machine learning
+
+I'm seasoned in R and I want to improve in Python
 
 <!---
 jmouchnino/jmouchnino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
